@@ -1,4 +1,4 @@
-## Neural Networks from a Syntactical View
+## Neural Networks from a Linguistic View
 
 ### 2018
 
