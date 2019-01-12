@@ -7,21 +7,21 @@
 * Futrell, Richard, and Roger P. Levy. "[Do RNNs learn human-like abstract word order preferences?](https://arxiv.org/abs/1811.01866)" arXiv preprint arXiv:1811.01866 (2018).
 * Strubell, Emma, et al. "[Linguistically-Informed Self-Attention for Semantic Role Labeling.](https://arxiv.org/abs/1804.08199)" arXiv preprint arXiv:1804.08199 (2018).
 * Jacovi, Alon, Oren Sar Shalom, and Yoav Goldberg. "[Understanding Convolutional Neural Networks for Text Classification.](https://arxiv.org/abs/1809.08037)" arXiv preprint arXiv:1809.08037 (2018).
-* Tang, Gongbo, et al. "[Why self-attention? a targeted evaluation of neural machine translation architectures.](https://arxiv.org/abs/1808.08946)" arXiv preprint arXiv:1808.08946 (2018).
+* Tang, Gongbo, et al. "[Why Self-attention? A Targeted Evaluation Of Neural Machine Translation Architectures.](https://arxiv.org/abs/1808.08946)" arXiv preprint arXiv:1808.08946 (2018).
 * Adhiguna, Kuncoro, et al. "[LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better.](http://www.aclweb.org/anthology/P18-1132)" (2018).
 * Asaf, Amrami, et al. "[Word Sense Induction with Neural biLM and Symmetric Patterns.](http://arxiv.org/pdf/1808.08518.pdf)" arXiv preprint arXiv:1808.08518 (2018).
 * Braden, Hancock, et al. "[Training Classifiers with Natural Language Explanations.](http://www.aclweb.org/anthology/P18-1175)" (2018).
 * Chaitanya, Malaviya, et al. "[Neural Factor Graph Models for Cross-lingual Morphological Tagging.](http://www.aclweb.org/anthology/P18-1247)" (2018).
-* Denis, Paperno, et al. "[Limitations in learning an interpreted language with recurrent models.](http://arxiv.org/pdf/1809.04128.pdf)" arXiv preprint arXiv:1809.04128 (2018).
+* Denis, Paperno, et al. "[Limitations In Learning An Interpreted Language With Recurrent Models.](http://arxiv.org/pdf/1809.04128.pdf)" arXiv preprint arXiv:1809.04128 (2018).
 * Fenia, Christopoulou, et al. "[A Walk-based Model on Entity Graphs for Relation Extraction.](http://www.aclweb.org/anthology/P18-2014)" (2018).
 * Javid, Ebrahimi, et al. "[HotFlip: White-Box Adversarial Examples for Text Classification.](http://arxiv.org/pdf/1712.06751.pdf)" arXiv preprint arXiv:1712.06751 (2018).
 * Jiangming, Liu, et al. "[Discourse Representation Structure Parsing.](http://www.aclweb.org/anthology/P18-1040)" (2018).
 * John, Hale, et al. "[Finding Syntax in Human Encephalography with Beam Search.](http://www.aclweb.org/anthology/P18-1254)" (2018).
-* Jon, Gauthier, et al. "[Does the brain represent words? An evaluation of brain decoding studies of language understanding.](http://arxiv.org/pdf/1806.00591.pdf)" arXiv preprint arXiv:1806.00591 (2018).
+* Jon, Gauthier, et al. "[Does The Brain Represent Words? An Evaluation Of Brain Decoding Studies Of Language Understanding.](http://arxiv.org/pdf/1806.00591.pdf)" arXiv preprint arXiv:1806.00591 (2018).
 * Junxian, He, et al. "[Unsupervised Learning of Syntactic Structure with Invertible Neural Projections.](http://www.aclweb.org/anthology/D18-1160)" (2018).
 * Junyang, Lin, et al. "[Semantic-Unit-Based Dilated Convolution for Multi-Label Text Classification.](http://arxiv.org/pdf/1808.08561.pdf)" arXiv preprint arXiv:1808.08561 (2018).
 * Lei, Yu, et al. "[Sentence Encoding with Tree-constrained Relation Networks.](http://arxiv.org/pdf/1811.10475.pdf)" arXiv preprint arXiv:1811.10475 (2018).
-* Matthew, E., Peters, et al. "[Deep contextualized word representations.](http://www.aclweb.org/anthology/N18-1202)" (2018).
+* Matthew, E., Peters, et al. "[Deep Contextualized Word Representations.](http://www.aclweb.org/anthology/N18-1202)" (2018).
 * Matthew, E., Peters, et al. "[Dissecting Contextual Word Embeddings: Architecture and Representation.](http://arxiv.org/pdf/1808.08949.pdf)" arXiv preprint arXiv:1808.08949 (2018).
 * Noah, Weber, et al. "[The Fine Line between Linguistic Generalization and Failure in Seq2Seq-Attention Models.](http://arxiv.org/pdf/1805.01445.pdf)" arXiv preprint arXiv:1805.01445 (2018).
 * Omer, Levy, et al. "[Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum.](https://openreview.net/pdf?id=HJOQ7MgAW)" (2018).
@@ -37,7 +37,7 @@
 * Yibo, Sun, et al. "[Semantic Parsing with Syntax- and Table-Aware SQL Generation.](http://www.aclweb.org/anthology/P18-1034)" (2018).
 * Yikang, Shen, et al. "[Neural Language Modeling by Jointly Learning Syntax and Lexicon.](http://arxiv.org/pdf/1711.02013.pdf)" arXiv preprint arXiv:1711.02013 (2018).
 * Yikang, Shen, et al. "[Straight to the Tree: Constituency Parsing with Neural Syntactic Distance.](http://www.aclweb.org/anthology/P18-1108)" (2018).
-* Yikang, Shen, et al. "[ORDERED NEURONS INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS.](http://arxiv.org/pdf/1810.09536.pdf)" arXiv preprint arXiv:1810.09536 (2018).
+* Yikang, Shen, et al. "[Ordered Neurons Integrating Tree Structures Into Recurrent Neural Networks.](http://arxiv.org/pdf/1810.09536.pdf)" arXiv preprint arXiv:1810.09536 (2018).
 * Yuhao, Zhang, et al. "[Graph Convolution over Pruned Dependency Trees.](http://www.aclweb.org/anthology/D18-1244)" (2018).
 * Zhengqiu, He, et al. "[SEE: Syntax-aware Entity Embedding for Neural Relation Extraction.](http://arxiv.org/pdf/1801.03603.pdf)" arXiv preprint arXiv:1801.03603 (2018).
 * Zhi-Xiu, Ye, et al. "[Hybrid semi-Markov CRF for Neural Sequence Labeling.](http://www.aclweb.org/anthology/P18-2038)" (2018).
@@ -48,7 +48,7 @@
 * Attapol, T., Rutherford, et al. "[A Systematic Study of Neural Discourse Models for Implicit Discourse Relation.](http://www.aclweb.org/anthology/E17-1027)" (2017).
 * Nanyun, Peng, et al. "[Cross-Sentence N -ary Relation Extraction with Graph LSTMs.](http://www.aclweb.org/anthology/Q17-1008)" (2017).
 * Timothy, Dozat, et al. "[Deep Biaffine Attention for Neural Dependency Parsing.](https://openreview.net/pdf?id=Hk95PK9le)" (2017).
-* Yoon, Kim, et al. "[STRUCTURED ATTENTION NETWORKS.](https://openreview.net/pdf?id=HkE0Nvqlg)" (2017).
+* Yoon, Kim, et al. "[Structured Attention Networks.](https://openreview.net/pdf?id=HkE0Nvqlg)" (2017).
 
 ###  2016
 
