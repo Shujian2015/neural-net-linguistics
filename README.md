@@ -76,3 +76,9 @@
 ###  2012
 
 * Eric, H., Huang, et al. "[Improving Word Representations via Global Context and Multiple Word Prototypes.](http://www.aclweb.org/anthology/P12-1092)" (2012).
+
+_________________
+
+## Acknowledgement
+
+Appreciate [@Hayao41](https://github.com/Hayao41)'s contribution.
