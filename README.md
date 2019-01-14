@@ -2,6 +2,7 @@
 
 ### 2018
 
+* Warstadt, Alex, et al. "[Grammatical Analysis of Pretrained Sentence Encoders with Acceptability Judgments.](https://arxiv.org/abs/1901.03438)" arXiv preprint arXiv: 1901.03438 (2018).
 * Dai, Zihang, et al. "[Transformer-XL: Language Modeling with Longer-Term Dependency.](https://arxiv.org/abs/1901.02860)" arXiv preprint arXiv: 1901.02860 (2018).
 * Goldberg, Yoav. "[Assessing BERT’s Syntactic Abilities.](http://u.cs.biu.ac.il/~yogo/bert-syntax.pdf)" (2018).
 * Futrell, Richard, and Roger P. Levy. "[Do RNNs learn human-like abstract word order preferences?](https://arxiv.org/abs/1811.01866)" arXiv preprint arXiv:1811.01866 (2018).
